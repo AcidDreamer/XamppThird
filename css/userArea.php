@@ -46,8 +46,7 @@
 	}
 
 	body {
-	    background: url(http://www.amazingwallpaperz.com/wp-content/uploads/Classic-Car-High-Quality-Wallpapers.jpg) no-repeat fixed center center;
-	    background-size: cover;
+		background-color: #b5b2a0;
 	    font-family: Montserrat;
 	    margin: 0px 0px 0px 0px;
 	}
