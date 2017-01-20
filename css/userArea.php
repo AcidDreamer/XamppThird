@@ -17,7 +17,7 @@
 	}
 	.newApplication input {
 		text-align: center;
-	    width: 100%;
+	    width: 20%;
 	    height: 35px;
 	    box-sizing: border-box;
 	    border-radius: 5px;
@@ -46,7 +46,7 @@
 	}
 
 	body {
-	    background-color: #b5b2a0;
+		background-color: #b5b2a0;
 	    font-family: Montserrat;
 	    margin: 0px 0px 0px 0px;
 	}
