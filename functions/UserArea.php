@@ -62,15 +62,15 @@
 					Amount Requested: <input type='text' value=''
 						placeholder='Amount' name='amount' /><br> 
 					Repay Time: <input type='text' value=''
-						placeholder='Repay Time' name='repayTime' />
+						placeholder='Repay Time' name='repayTime' /><br>
 					Buy	Type: <select name='buy_type'><option
 							value=1>Used</option>
 						<option value=2>Brand New</option></select><br><br> 
 					Drivers License: <input type='text' value=''
-						placeholder='Drivers License' name='drivers_licence' /> 
+						placeholder='Drivers License' name='drivers_licence' /><br>
 					Taxes : <input
-						type='text' value='' placeholder='Taxes' name='taxes' /> 
-					<input type='submit' class='newApp button' name='newApp' value='Submit'>
+						type='text' value='' placeholder='Taxes' name='taxes' /><br>
+					<input type='submit' class='newApp button' name='newApp' value='Submit'><br>
 					</form>
 			</div>";
 	}
