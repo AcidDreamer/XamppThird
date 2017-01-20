@@ -46,7 +46,7 @@
 	}
 
 	body {
-		background-color: #b5b2a0;
+	    background-color: #b5b2a0;
 	    font-family: Montserrat;
 	    margin: 0px 0px 0px 0px;
 	}
